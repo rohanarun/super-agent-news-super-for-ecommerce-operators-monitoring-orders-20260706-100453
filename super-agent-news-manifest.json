@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini can now control your computer. Hackers are already targeting AI agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3?oc=5"
+    },
+    {
+      "source": "Cybernews",
+      "title": "Best AI Tools for eCommerce 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title + niche_landing + ecommerce operators + 2026-07-06T10:04:05Z selected workflow-command-center hero, Outfit typography, gapless-bento-grid + workflow-playbook-timeline + implementation-checklist components, GSAP paradigms card-stacking and hover-physics. AIDA Check: Hero frames attention on order/support overload, Interest via market proof and sources, Desire via cache-based workflows, Action via persistent CTAs. Font Selection: Outfit (distinct from prior pages). Hero Math Verification: clamp headline max-width tuned for 2\u20133 lines at desktop. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded animations with fallback. Label Sweep & Button Check: all CTAs contrast-checked and point to app.getsupers.com.",
+  "generated_at": "2026-07-06T10:05:00.724378+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A premium, operator\u2011grade landing page showing how Super acts as a personal AI agent that can operate real ecommerce tools, reuse a computer-use cache, and reduce the cost and friction of repeated order monitoring, customer support, and back\u2011office admin workflows."
+}
